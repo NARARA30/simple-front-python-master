@@ -9,7 +9,7 @@
 
 핵심 포인트
 - isinstance : "형태만" 검사
-- jsonschema : "내용 + 규칙" 검사
+- jsonschema : "내용 + 규칙" 검사 / 주석 추가
 """
 
 import requests
